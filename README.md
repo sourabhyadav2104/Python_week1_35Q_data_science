@@ -4,6 +4,6 @@
 ## Contact Information
 
 - LinkedIn: [https://www.linkedin.com/in/sourabh-yadav-804043230]
-- Resume  : [My Resume](Sourabh's Resume.pdf)
+- Resume  : [/home/sourabh/Downloads/Sourabh's Resume.pdf]
 - Email   : [sourabhyadav1256@gmail.com]
 - Phone   : 7878041272
